@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Shijun Ma
+title: Shijun Ma (马世俊)
 description: Shijun Ma is an artist 
 keywords: Chinese art, drawing 
 ---
