@@ -21,12 +21,12 @@ keywords: Chinese art, drawing
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/meihua.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/publpics/meihua.JPG" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/mppdiag_fig4.html">
-        <img src="assets/publpics/roaster.png" alt="Broman et
+        <img src="assets/publpics/roaster.JPG" alt="Broman et
         al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
     </a>
   </td>
