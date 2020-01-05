@@ -1,5 +1,5 @@
 ## Personal Website for Ma Shijun 
-See [shijun.org](https://shijun.org).
+See [mashijunus.github.io](https://mashijunus.github.io).
 
 ---
 
