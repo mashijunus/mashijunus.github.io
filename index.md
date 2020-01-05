@@ -5,6 +5,7 @@ description: Shijun Ma is an artist
 keywords: Chinese art, drawing 
 ---
 
+<!--- XM: comment out for now
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -13,6 +14,8 @@ keywords: Chinese art, drawing
       </ul>
   </div>
 </div>
+--->
+
 
 <table class="wide">
 <tr>
