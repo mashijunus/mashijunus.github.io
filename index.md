@@ -31,6 +31,7 @@ keywords: Chinese art, drawing
     </a>
   </td>
 </tr>
+<!---  
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
@@ -43,6 +44,8 @@ keywords: Chinese art, drawing
     </a>
   </td>
 </tr>
+--->
+  
 </table>
 
 <div class="navbar">
