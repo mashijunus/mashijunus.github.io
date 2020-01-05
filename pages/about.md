@@ -21,7 +21,7 @@ Shijun Ma is an artist who specilize in traditional Chinese arts such as drawing
 
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
+            <img src="../assets/pics/dad_great_fall_2018.jpg"
                   title="Shijun Ma" alt="Shijun Ma"/></a>
         </div>
     </div>
