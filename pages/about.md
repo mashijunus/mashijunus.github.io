@@ -12,15 +12,17 @@ Shijun Ma is an artist who specilize in traditional Chinese arts such as drawing
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span2">
 
             <div id="hide_email">
             Email: mashijunus@gmail.com
             </div>
         </div>
 
-        <div class="span2">
+        <div class="span5">
+        <!---
         <a href="../assets/pics/karl_2014-03-30.jpg">
+        --->
             <img src="../assets/pics/dad_great_fall_2018.jpg"
                   title="Shijun Ma" alt="Shijun Ma"/></a>
         </div>
